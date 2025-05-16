@@ -1,4 +1,3 @@
-Vercel Deployment : (https://fudo-food-delivery-main.vercel.app/)
 
 # Frontend Mentor - Fylo dark theme landing page solution
 
